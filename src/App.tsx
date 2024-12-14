@@ -30,7 +30,7 @@ function App() {
       alert('API key not configured. Please check the setup.');
       return;
     }
-    const prompt = `Please write the English and Hindi meaning side by side for these words:- ${selectedWordsText}`;
+    const prompt = `Please write the English and their three Hindi meaning side by side for these words:- ${selectedWordsText}`;
     setGeminiInput(prompt);
   };
 
