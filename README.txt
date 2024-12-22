@@ -1,7 +1,7 @@
 English to Hindi Vocabulary Generator
 ===================================
 
-App Link: https://arvind-git-code.github.io/english-hindi-vocabulary-generator/
+App Link: https://huggingface.co/spaces/maxex59185ckuer/Vocabulary_Generator
 
 
 A web application that helps users generate English-Hindi vocabulary lists with AI assistance.
